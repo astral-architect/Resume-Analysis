@@ -1,0 +1,20 @@
+fastapi uvicorn[standard] python-multipart pydantic python-dotenv
+
+sqlalchemy psycopg2-binary alembic
+
+pymupdf python-docx docx2txt
+
+spacy rapidfuzz
+
+numpy pandas scikit-learn joblib
+
+torch sentence-transformers
+
+chromadb
+
+google-generativeai
+
+
+matplotlib openpyxl
+
+tqdm
